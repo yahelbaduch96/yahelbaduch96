@@ -9,7 +9,7 @@ I'm a **Software Developer** with a passion for solving problems and creating me
 ### 🌱 What I'm Working On
 I'm developing an app called **Urban Treasure Hunt** 🗺️, a mobile platform promoting social and environmental sustainability. Users can upload and pin locations of found objects, encouraging reuse and reducing waste. This project was selected for the Social Accelerator program at the Hebrew University’s Innovation Center, and I'm super excited about its potential impact!
 
-![Urban Treasure Hunt Loading Screen](loading_screen.gif)
+![Urban Treasure Hunt Loading Screen](ScreenRecording2024-05-21at16.37.39-ezgif.com-video-to-gif-converter.gif.gif)
 
 ### 📫 How to Reach Me
 - **Email:** [yahelbaduch@gmail.com](mailto:yahelbaduch@gmail.com)
