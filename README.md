@@ -11,8 +11,8 @@
   <img  align="right" width="150" src="treasure.gif" alt="image" />
 
    ### 💻 Technologies & Tools
-   - **Languages:** Python, Java, C/C++, R
-   - **Tools:** Git, JIRA, MERN stack (MongoDB, Express, React Native, Node.js)
+   - **Languages:** Python, Java, C/C++, R, JavaScript, TypeScript
+   - **Tools:** Git, JIRA, React Native
 
      
 </div>
@@ -21,7 +21,7 @@
   
   ### 🌱 What I'm Working On
   After graduating, I understood that I want to use the power of computer science to make daily life processes more accessible for people in need.
-I'm developing an app called <b>Urban Treasure Hunt</b> 🗺️, a mobile platform promoting social and environmental sustainability. 
+I'm developing an app called <b>Treasure</b> 🗺️, a mobile platform promoting social and environmental sustainability. 
 Users can upload and pin locations of found objects, encouraging reuse and reducing waste. 
 This project was selected for the Social Accelerator program at the Hebrew University’s 
 Innovation Center, and I'm super excited about its potential impact!
