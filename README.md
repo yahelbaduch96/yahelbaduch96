@@ -21,7 +21,7 @@
   
   ### 🌱 What I'm Working On
   After graduating, I understood that I want to use the power of computer science to make daily life processes more accessible for people in need.
-I'm developing an app called <b>Treasure</b> 🗺️, a mobile platform promoting social and environmental sustainability. 
+I'm developing an app called <b>Treasure</b> 🗺️ a mobile platform promoting social and environmental sustainability. 
 Users can upload and pin locations of found objects, encouraging reuse and reducing waste. 
 This project was selected for the Social Accelerator program at the Hebrew University’s 
 Innovation Center, and I'm super excited about its potential impact!
