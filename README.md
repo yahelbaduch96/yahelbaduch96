@@ -25,7 +25,7 @@ A full-stack web application (HTML/JS, Python) that automates the production pip
 <br clear="all" />
 <br />
 
-<img align="right" width="250" src="voxel-blocks-demo.gif" alt="Educational Voxel Tool Demo" />
+<img align="right" width="250" src="voxel-blocks-demo.jpeg" alt="Educational Voxel Tool Demo" />
 
 #### 🧩 Interactive Voxel Builder & Web Simulator
 A tangible educational tool for kids to learn 3D modeling. Users snap together smart, electronically readable blocks to build physical shapes. The system reads this physical interaction and mirrors it live in a web-based simulator, instantly converting the physical structure into a 3D-printable STL file.
