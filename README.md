@@ -17,38 +17,53 @@
 
 ### 🚀 Featured Projects
 
-<img align="right" width="250" src="hayush-webapp-demo.gif" alt="HAYUSH Toolpath Generator Demo" />
+<table>
+  <tr>
+    <td valign="middle" width="70%">
+      <h4>🛠️ HAYUSH: Custom Web-Based Toolpath Compiler</h4>
+      <p>A full-stack web application (HTML/JS, Python) that automates the production pipeline for my 3D-printing brand, <a href="https://hayush.at">HAYUSH</a>. It acts as a custom compiler, letting users interact with a 2D digital interface that translates directly into physical machine execution code (G-code), bypassing standard slicing software entirely.</p>
+    </td>
+    <td valign="middle" width="30%" align="center">
+      <img width="250" src="hayush-webapp-demo.gif" alt="HAYUSH Toolpath Generator Demo" />
+    </td>
+  </tr>
+</table>
 
-#### 🛠️ HAYUSH: Custom Web-Based Toolpath Compiler
-A full-stack web application (HTML/JS, Python) that automates the production pipeline for my 3D-printing brand, [HAYUSH](https://hayush.at). It acts as a custom compiler, letting users interact with a 2D digital interface that translates directly into physical machine execution code (G-code), bypassing standard slicing software entirely.
+<table>
+  <tr>
+    <td valign="middle" width="70%">
+      <h4>💧 Interactive Data Physicalization: Museum Artifact</h4>
+      <p>An interactive museum artifact that turns global water statistics into a physical experience of inaccessibility. Built with an ESP32 and ultrasonic sensors in C++, the system tracks a user's proximity in real-time. As users reach for the water, data-driven LED animations trigger to keep it "locked" away, using the frustration of the physical interaction to communicate real-world water scarcity.</p>
+    </td>
+    <td valign="middle" width="30%" align="center">
+      <img width="250" src="water-exhibit-demo.gif" alt="Interactive Museum Prototype" />
+    </td>
+  </tr>
+</table>
 
-<br clear="all" />
-<br />
+<table>
+  <tr>
+    <td valign="middle" width="70%">
+      <h4>🧩 Interactive Voxel Builder & Web Simulator</h4>
+      <p>A tangible educational tool for kids to learn 3D modeling. Users snap together smart, electronically readable blocks to build physical shapes. The system reads this physical interaction and mirrors it live in a web-based simulator, instantly converting the physical structure into a 3D-printable STL file.</p>
+    </td>
+    <td valign="middle" width="30%" align="center">
+      <img width="250" src="voxel-blocks-demo.jpeg" alt="Educational Voxel Tool Demo" />
+    </td>
+  </tr>
+</table>
 
-<img align="right" width="250" src="voxel-blocks-demo.jpeg" alt="Educational Voxel Tool Demo" />
-
-#### 🧩 Interactive Voxel Builder & Web Simulator
-A tangible educational tool for kids to learn 3D modeling. Users snap together smart, electronically readable blocks to build physical shapes. The system reads this physical interaction and mirrors it live in a web-based simulator, instantly converting the physical structure into a 3D-printable STL file.
-
-<br clear="all" />
-<br />
-
-<img align="right" width="250" src="water-exhibit-demo.gif" alt="Interactive Museum Prototype" />
-
-#### 💧 Interactive Data Physicalization: Museum Artifact
-An interactive museum artifact that turns global water statistics into a physical experience of inaccessibility. Built with an ESP32 and ultrasonic sensors in C++, the system tracks a user's proximity in real-time. As users reach for the water, data-driven LED animations trigger to keep it "locked" away, using the frustration of the physical interaction to communicate real-world water scarcity.
-
-<br clear="all" />
-<br />
-
-
-<img align="right" width="150" src="treasure.gif" alt="Treasure App Demo" />
-
-#### 🗺️ Treasure: Urban Sustainability App
-A location-based mobile app built with React Native, Node.js, and MongoDB to promote urban sustainability. Users interact with a live map to pin and find abandoned street objects in their city, encouraging local reuse. 
-
-<br clear="all" />
-
+<table>
+  <tr>
+    <td valign="middle" width="70%">
+      <h4>🗺️ Treasure: Urban Sustainability App</h4>
+      <p>A location-based mobile app built with React Native, Node.js, and MongoDB to promote urban sustainability. Users interact with a live map to pin and find abandoned street objects in their city, encouraging local reuse.</p>
+    </td>
+    <td valign="middle" width="30%" align="center">
+      <img width="150" src="treasure.gif" alt="Treasure App Demo" />
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📫 How to Reach Me
